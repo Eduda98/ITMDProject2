@@ -1,5 +1,78 @@
+
+nav {
+	color: black;
+	text-align: center;
+	width: 75%;
+	margin: 0px auto;
+	font-family: 'CenturyGothic';
+}
+
+p { 
+	border: 0.05em solid #A9A9A9;
+	opacity: 0.8;
+	background-color: black;
+	padding: 0.7%;
+}
+
+span{
+	background-color: white;  
+	display: inline;
+	border: 0.2em solid red;
+	text-align: center;
+	position: relative;
+	padding: 12px 50px;
+	color: #FFFFFF;
+	margin: 0;
+	padding: 0;
+}
+	
+h1 {
+	text-align: center;
+	font-family: 'CenturyGothic';
+	color: white;
+	background-color: black;  
+	border: 0.05em solid red;
+	font-size: 3em;
+	opacity: 0.85;
+}
+
+h3 {
+	text-align: center;
+	font-family: 'CenturyGothic';
+	color: red;
+	border: 0.05em solid red;
+	background-color: black;
+	opacity: 0.85;
+}
+
+ul { 
+	border: 0.05em solid #A9A9A9;
+	background-color: black;
+	opacity: 0.8;
+}
+
 body {
-	background-color: #610082;
-	color: #C0C0C0;
-	font-family: Century Gothic;
+	background: url("https://s3.amazonaws.com/cardsphere-blog/2018/10/guildsreview.jpg") no-repeat center center fixed;
+	background-color: #7FF2F4;
+	background-size: cover;
+	object-fit: fill;
+	color: blue;
+	font-family: 'Oswald', sans-serif;}
+
+img {
+	width: 35%;
+	opacity: 0.8;
+}
+
+a {
+	border: 0.05em solid #A9A9A9;
+	background-color: black;
+	padding: 0.7%;
+}
+
+.centerimage {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%
 }
