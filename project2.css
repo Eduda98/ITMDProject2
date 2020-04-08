@@ -83,7 +83,7 @@ ul {
 }
 
 body {
-  background: url("tysbackground.jpg") no-repeat center center fixed;
+  background: url("media/tysbackground.jpg") no-repeat center center fixed;
   background-color: #7FF2F4;
   background-size: cover;
   color: blue;
