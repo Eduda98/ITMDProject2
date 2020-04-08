@@ -101,11 +101,6 @@ iframe {
   position: right;
 }
 
-.cat {
-  width: 35%;
-  height: 88%;
-  position: relative;
-}
 
 .gatheringimg1 {
   width: 100%;
@@ -126,7 +121,9 @@ a {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%
+  width: 35%;
+  height: 88%;
+  position: relative;
 }
 
 .centertext {
@@ -156,8 +153,6 @@ a {
   height: 40vw;
   transition: transform 1.3s;
   transform-style: preserve-3d;
- 
- 
 }
 
 .flipcard:hover .flipcard-inner {
